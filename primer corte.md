@@ -12,6 +12,8 @@ Aplicaciones similares:
 * [Be My Eyes](https://play.google.com/store/apps/details?id=com.bemyeyes.bemyeyes&pcampaignid=web_share)  
 * [Voice Access](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess&pcampaignid=web_share)
 
-- [Ideas iniciales de proyecto](docs/ideas.md)
-- [Funcionalidades de la aplicación](docs/funcionalidades.md)
+## opciones
+
+- [Ideas iniciales de proyecto](docs/Ideas.md)
+- [Funcionalidades de la aplicación](docs/Funcionalidades.md)
 - [Diseño de la interfaz de usuario](docs/ui.md)
