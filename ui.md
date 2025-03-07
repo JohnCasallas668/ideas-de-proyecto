@@ -21,3 +21,4 @@ La aplicación tendrá las siguientes pantallas y algunas siguen en construcció
 ![Pantalla 6: Contactos](6.png)
 
 ## Referencias
+* [My Agenda](https://play.google.com/store/apps/details?id=com.tambucho.miagenda.trial&pcampaignid=web_share)  
