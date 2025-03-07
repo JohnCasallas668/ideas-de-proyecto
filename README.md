@@ -11,5 +11,5 @@ Aplicaciones similares:
 ## opciones
 
 - [Ideas iniciales de proyecto](Ideas.md)
-- [Funcionalidades de la aplicación](docs/Funcionalidades.md)
-- [Diseño de la interfaz de usuario](docs/ui.md)
+- [Funcionalidades de la aplicación](Funcionalidades.md)
+- [Diseño de la interfaz de usuario](ui.md)
