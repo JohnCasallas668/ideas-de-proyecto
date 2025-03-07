@@ -10,6 +10,6 @@ Aplicaciones similares:
 
 ## opciones
 
-- [Ideas iniciales de proyecto](docs/Ideas.md)
+- [Ideas iniciales de proyecto](Ideas.md)
 - [Funcionalidades de la aplicación](docs/Funcionalidades.md)
 - [Diseño de la interfaz de usuario](docs/ui.md)
