@@ -1,1 +1,0 @@
-# ideas-de-proyecto
