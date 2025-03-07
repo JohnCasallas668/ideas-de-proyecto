@@ -5,11 +5,11 @@ Accesibilidad, es una app la cual va dirigida a adultos mayores los cuales no pu
 Author: John Alexander Casallas Bello-Tecnlogía en construcción de software
 
 ## Referencias
-Aplicaciones similares:
-Big Launcher
-MediSafe
-Be My Eyes
-Voice Access
+- Aplicaciones similares:
+- Big Launcher
+- MediSafe
+- Be My Eyes
+- Voice Access
 
 - [Ideas iniciales de proyecto](docs/ideas.md)
 - [Funcionalidades de la aplicación](docs/funcionalidades.md)
