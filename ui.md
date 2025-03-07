@@ -19,3 +19,5 @@ La aplicación tendrá las siguientes pantallas y algunas siguen en construcció
 ![Pantalla 4: Otras opciones](4.png)  
 ![Pantalla 5: Listas](5.png)  
 ![Pantalla 6: Contactos](6.png)
+
+## Referencias
