@@ -7,6 +7,11 @@ Author: John Alexander Casallas Bello-Tecnlogía en construcción de software
 ## Referencias
 Aplicaciones similares:
 
+* [Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar&pcampaignid=web_share)  
+* [SmartAgenda](https://play.google.com/store/apps/details?id=com.wssystems.smartagenda&pcampaignid=web_share)  
+* [My Agenda](https://play.google.com/store/apps/details?id=com.tambucho.miagenda.trial&pcampaignid=web_share)  
+* [WeNote](https://play.google.com/store/apps/details?id=com.yocto.wenote&pcampaignid=web_share)
+
 
 ## opciones
 
